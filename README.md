@@ -29,7 +29,8 @@ ShellMessenger is a simple, C++-based command-line chat application that uses TC
 7. Run the client: In a new terminal tab, run the client with a desired username:
    ```bash
    ./client <username>
-   ##example:
+
+##example:
    ```bash
     ./client Aniket
 
