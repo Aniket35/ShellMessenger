@@ -30,12 +30,10 @@ ShellMessenger is a simple, C++-based command-line chat application that uses TC
    ```bash
    ./client <username>
 
-##example:
-   ```bash
-    ./client Aniket
-
 ## Usage
+
 - Broadcast Messages: Send a message to everyone connected to the server by typing the message in the client terminal.
 - Private Messages: Send private messages to a specific user using the @username format. For example:
+
   ```bash
   @Aniket Hello Aniket!
